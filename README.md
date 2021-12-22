@@ -1,4 +1,4 @@
-<img src="https://github.com/ITA-LOW/imagens/blob/main/fluxograma-.png" alt="logo"/>
+<img src="https://wallpaperaccess.com/full/3959331.jpg" width=800 height=200 alt="logo" align="middle"/>
 
 # MTM3587-08222-2021/2-Aprendizado de Máquina
 ## Professor Edson Cilos - UFSC
