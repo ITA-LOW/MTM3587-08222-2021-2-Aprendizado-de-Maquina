@@ -1,4 +1,4 @@
-<img src="https://wallpaperaccess.com/full/3959331.jpg" width=800 height=200 alt="logo" align="middle"/>
+<img src="https://inscricao.ucpel.edu.br/portal/wp-content/uploads/2019/12/ci%C3%AAncia-de-dados-750x375.jpg"/>
 
 # MTM3587-08222-2021/2-Aprendizado de Máquina
 ## Professor Edson Cilos - UFSC
